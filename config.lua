@@ -26,5 +26,5 @@ Banks = {
 		reward = math.random(290000,2000000),
 		nameofbank = "Principal bank",
 		lastrobbed = 0
-	--}
+	}
 }
