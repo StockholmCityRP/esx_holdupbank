@@ -21,10 +21,10 @@ Banks = {
 		nameofbank = "Blaine County Savings",
 		lastrobbed = 0
 	},
-	--["PrincipalBank"] = {
-		--position = { ['x'] = 255.001098632813, ['y'] = 225.855895996094, ['z'] = 101.005694274902 },
-		--reward = math.random(17500,35000),
-		--nameofbank = "Principal bank",
-		--lastrobbed = 0
+	["PrincipalBank"] = {
+		position = { ['x'] = 255.001098632813, ['y'] = 225.855895996094, ['z'] = 101.005694274902 },
+		reward = math.random(290000,2000000),
+		nameofbank = "Principal bank",
+		lastrobbed = 0
 	--}
 }
