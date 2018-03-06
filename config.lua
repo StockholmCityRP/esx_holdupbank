@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'en'
+Config.Locale = 'sv'
 Config.NumberOfCopsRequired = 6
 
 Banks = {
